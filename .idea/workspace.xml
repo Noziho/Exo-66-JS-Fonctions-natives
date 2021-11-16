@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="408345fa-cc61-4ed9-9546-ffb54171685d" name="Default Changelist" comment="" />
+    <list default="true" id="408345fa-cc61-4ed9-9546-ffb54171685d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,6 +72,8 @@
       <updated>1606642283395</updated>
       <workItem from="1606642287151" duration="2275000" />
       <workItem from="1637064621865" duration="1998000" />
+      <workItem from="1637066657136" duration="32000" />
+      <workItem from="1637074286753" duration="2482000" />
     </task>
     <task id="LOCAL-00001" summary="exercice done">
       <created>1637066627510</created>
@@ -77,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637066627510</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="workspace.xml">
+      <created>1637066681853</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1637066681853</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,6 +109,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="exercice done" />
-    <option name="LAST_COMMIT_MESSAGE" value="exercice done" />
+    <MESSAGE value="workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="workspace.xml" />
   </component>
 </project>
